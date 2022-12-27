@@ -15,8 +15,5 @@ Python-nmap can be installed with
 pip3 install python-nmap
 ```
 
-## Installing it
-Clone the `vulnerability-scanner.py` file on your system.
-```
-wget https://raw.githubusercontent.com/kshah1911/nmap_automation/main/vulnerability_scanner.py
-```
+## Using it
+Just clone/download the file and run it
