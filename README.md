@@ -7,6 +7,7 @@ It uses `nmap` to scan for ports and then using `searchsploit` to find any vulne
 ## Usage
 Please only use this for legal purposes and on targets where you have their permission.
 I am not responsible for any illegal use of this script
+By using our services you agree that you hold responsibility, liability and accountability of any consequences caused by your actions. 
 
 # Requirements
 You must have `python-nmap` and `searchsploit` installed.
